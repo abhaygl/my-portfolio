@@ -1,22 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Welcome to My Portfolio!
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is a portal to the absolute peak of learning and creativity. This quarter A3, I will be using the power of Data in order to Tell Stories. Some may even saying I'm Telling Stories with Data.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, my name is Abhay Liginlal and I'm a senior undergraduate Economics & Politics student at Carnegie Mellon. I was born in Madison, Wisconsin, but I grew up most of my life in Doha, Qatar. In my free time, I enjoy listening to music (big fan of Rock), playing videogames, and watching as many random informational YouTube videos as I can. I also love speech and debate: I competed in several championships for the South East Asian circuit of Forensics and I'm currently a senior member of the Carnegie Mellon Mock Trial team.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+There are four things I hope to learn as a part of this class:
 
-1. List item #1
+1. Understand the usage of color (or its absence) in order to maximize the 
 2. List item #2
 3. List item #3
 
