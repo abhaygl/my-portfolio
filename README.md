@@ -1,5 +1,3 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # Welcome to My Portfolio!
 
 This is a portal to the absolute peak of learning and creativity. This quarter A3, I will be using the power of Data in order to Tell Stories. Some may even saying I'm Telling Stories with Data.
@@ -10,17 +8,13 @@ Hi, my name is Abhay Liginlal and I'm a senior undergraduate Economics & Politic
 # What I hope to learn
 There are four things I hope to learn as a part of this class:
 
-1. Understand the usage of color (or its absence) in order to maximize the 
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Understand the usage of color (or its absence) in order to maximize the data communication in a visualization. 
+2. Learn basics of Tableau in order to kickstart my eventual usage of the program when I enter the consulting industry in Summer 2024.
+3. Be able to criticize common data visualizations in the professional world and have ready solutions that I can quickly apply in my work life.
 
 # Portfolio
+
+| [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
