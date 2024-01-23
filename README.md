@@ -8,56 +8,17 @@ Hi, my name is Abhay Liginlal and I'm a senior undergraduate Economics & Politic
 # What I hope to learn
 There are four things I hope to learn as a part of this class:
 
-1. Understand the usage of color (or its absence) in order to maximize the data communication in a visualization. 
+1. Understand the usage of color (or its absence) in order to maximize the data communication in a visualization.
+
+![1_11SBac2NeUNmVLrl8fY_vQ](https://github.com/abhaygl/my-portfolio/assets/153397962/378286c0-65da-4fa2-900e-893c38f397bf)
+
 2. Learn basics of Tableau in order to kickstart my eventual usage of the program when I enter the consulting industry in Summer 2024.
-3. Be able to criticize common data visualizations in the professional world and have ready solutions that I can quickly apply in my work life.
+
+4. Be able to criticize common data visualizations in the professional world and have ready solutions that I can quickly apply in my work life.
 
 # Portfolio
 
 | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
-
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images
 
