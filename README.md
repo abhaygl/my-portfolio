@@ -10,7 +10,7 @@ There are four things I hope to learn as a part of this class:
 
 1. Understand the usage of color (or its absence) in order to maximize the data communication in a visualization.
 
-<img src="https://github.com/abhaygl/my-portfolio/assets/153397962/378286c0-65da-4fa2-900e-893c38f397bf" width="200"/>
+<img src="https://github.com/abhaygl/my-portfolio/assets/153397962/378286c0-65da-4fa2-900e-893c38f397bf" width="800"/>
 
 2. Learn basics of Tableau in order to kickstart my eventual usage of the program when I enter the consulting industry in Summer 2024.
 
