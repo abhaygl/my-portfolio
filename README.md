@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-This is a portal to the absolute peak of learning and creativity. This quarter A3, I will be using the power of Data in order to Tell Stories. Some may even saying I'm Telling Stories with Data.
+This is a portal to the absolute peak of learning and creativity. This quarter A3, I will be using the power of Data in order to Tell Stories. Some may even say I'm Telling Stories with Data.
 
 # About me
 Hi, my name is Abhay Liginlal and I'm a senior undergraduate Economics & Politics student at Carnegie Mellon. I was born in Madison, Wisconsin, but I grew up most of my life in Doha, Qatar. In my free time, I enjoy listening to music (big fan of Rock), playing videogames, and watching as many random informational YouTube videos as I can. I also love speech and debate: I competed in several championships for the South East Asian circuit of Forensics and I'm currently a senior member of the Carnegie Mellon Mock Trial team.
