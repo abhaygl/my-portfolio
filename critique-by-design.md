@@ -1,4 +1,4 @@
-| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](https://abhaygl.github.io/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/critique-by-design/) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design/) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Makeover Monday
 In a world full of different data visualizations, not everyone is going to think of modelling data the exact same way. There's all sorts of graphs, maps, and designs that can be used to represent the same dataset. That's the premise of the journey I went on in this page. Join me for Makeover Monday, where I choose a visualization from a website or database and redesign it to tell the story a completely different way.
