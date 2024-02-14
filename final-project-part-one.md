@@ -40,7 +40,7 @@ Finally, I will be using a dataset that has existing details of bike infrastruct
 |------|-----|-------------|
 |DC Crashes|[link](https://drive.google.com/file/d/11mqYpu4E-EDNWpcAJxsB57n9ecWrO2GM/view?usp=sharing)|Dataset covering all vehicle crashes in DC from 1980-2023|
 |US Crashes|[link](https://drive.google.com/file/d/1PvU9uiMnuJVHE_l20ixaJJx1ZFkg8eUQ/view?usp=sharing)|Dataset covering all vehicle crashes from 2016-2023 in the United States|
-|DC Bicycle Infrastructure|[link](https://drive.google.com/file/d/1y5LWmp3fRKEX-UNYMVJdEcs-MoROqkSU/view?usp=sharing)|             |
+|DC Bicycle Infrastructure|[link](https://drive.google.com/file/d/1y5LWmp3fRKEX-UNYMVJdEcs-MoROqkSU/view?usp=sharing)|Dataset covering details of existing bike infrastructure in Washington DC|
 
 # Method and medium
 I plan to be using Shorthand and Tableau for the presentation of my data. I want to use tableau in order to analyze the data and create a dashboard with my chosen visuals. I will then use shorthand in order to display these visuals. I want to use Shorthand as my I plan to create a scrolling website that clearly telly a story in three parts.
