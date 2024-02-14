@@ -26,9 +26,9 @@ Here, I'll talk about how many accidents occur in DC. I want to use this section
 This is the resolution, where I discuss the efforts that have been made to save lives and what the audience can do to help. I will provide links to help support non-profits that are dealing with the issue, numbers for DC local government that can be called to voice concerns, and educational sources to keep the audience informed on the facts.
 
 ## Initial sketches
-![IMG_7156](https://github.com/abhaygl/my-portfolio/assets/153397962/72ac2e4b-1641-46bd-a161-ec86293faf5d)
+<img src="https://github.com/abhaygl/my-portfolio/assets/153397962/72ac2e4b-1641-46bd-a161-ec86293faf5d" width="600"/>
 
-Text here...
+Here I have a rough outline of what I would like my storyboard to be. I start with a bar graph that compares DC bikers to US Average ones, and then transition to highlighting how many of those bikers are at risk. I wanted to use a "body count" visual because I believe it is impactful in showing that lives are on the line. I then used a map to detail where accidents happen and how DC accidents for bikes are worse over time compared to the US. Finally, I showed an example of protected bike paths to show how changing infrastructure may be the solution to fixing bike accidents. This rought story board goes through my setup (establishing DC's biker pool), the conflict (the accidents themselves) and the resolution (changing infrastructure).
 
 # The data
 So far, I have found three datasets that are pertinent to this particular project. 
