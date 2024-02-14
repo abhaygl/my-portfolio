@@ -22,4 +22,4 @@ There are four things I hope to learn as a part of this class:
 
 # Portfolio
 
-| [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design) | [final project I](https://abhaygl.github.io/my-portfolio/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
