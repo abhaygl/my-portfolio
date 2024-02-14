@@ -1,9 +1,6 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
-# Outline
+# Final Project Outline
 
 ## Project Summary
 Washington DC is a city famous for many things: it's home of the White House, the Lincoln Memorial, the National Mall, just to name a few. But an especially unique part of the city that doesn't jump immediately to mind is its bicycles. In 2023, a report by _CBS'_ WUSA network found that Washington DC ranked as the 5th most bike-friendly city in the United States, with the city installing more than 2000 bike racks and installing 100 miles of bike lanes between 2010 and 2023 (). The city also has the second highest bicyclists per capita in the nation according to _ (). This sort of focus on public infrastructure is why I personally chose the city as my home following my undergraduate education; I grew up outside of the states and feel at home in the walkable and bikeable city streets of the nation's capitol. However, bike accessibility in a car dominated culture opens up one fear above all else: **accidents**. 
