@@ -1,9 +1,12 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+![Screenshot 2024-02-22 231858](https://github.com/abhaygl/my-portfolio/assets/153397962/608226f3-1f55-43e9-8c74-fda3f854a2e1)
+![Screenshot 2024-02-22 231929](https://github.com/abhaygl/my-portfolio/assets/153397962/9b8b7e79-3b63-4129-8cd4-3f7ff8927030)
+![Screenshot 2024-02-22 231951](https://github.com/abhaygl/my-portfolio/assets/153397962/31e44a51-f97d-4c16-aa74-b763c8075209)
+![Screenshot 2024-02-22 232015](https://github.com/abhaygl/my-portfolio/assets/153397962/f0df8937-1a09-4a50-bbcf-2a64a458b26a)
+![Screenshot 2024-02-22 232035](https://github.com/abhaygl/my-portfolio/assets/153397962/fcf6f467-160e-4134-9461-5c39216ac3a3)
+![Screenshot 2024-02-22 232056](https://github.com/abhaygl/my-portfolio/assets/153397962/d9ae709b-1918-48b2-a3d9-ed28578047e5)
 
 # User research 
 
