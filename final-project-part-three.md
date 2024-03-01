@@ -11,8 +11,7 @@ https://carnegiemellon.shorthandstories.com/mitigating-bicycle-accidents-in-dc/i
   The pace of the story was changed fairly significantly, particularly in the opening. One of the concerns expressed by Katelin was that the reason for why Washington DC was the focus of the case was not completely clear. In order to make this part a bit more satisfying, I covered how the government of Washington DC advertises the safety of bicycling incorrectly, and how it’s important to cover this issue in DC particularly because of the misleading narrative regarding the city made by the officials.
   
   The color palette in the previous edition was fairly basic, in the sense that it was a single palette throughout: blue and tan. Now, I changed it to transition from blue/white, to black/red, and finally to green/white. I did this in order to fit with the emotions I am trying to convey in the narrative: the positive of increased biking in DC, the negative of the bicycle accidents and poor infrastructure, and finally the possibility of improvement with a call to action.
-  
-  The design of the project also changed fairly significantly, with the color palette shifting and combining graphs related to comparing the DC to the US.
+    
 Data-wise, combining the graphs of how many accidents have happened in DC vs. how many have happened in the US as a whole. I previously had separate graphs for both, with an analysis of total accidents over time. Instead, I decided to divide the totals into “Accidents per 100,000” so that I could put two line graphs into the same plot and make it easier for the audience to see the drastic difference in trends.
 
 ## The audience
