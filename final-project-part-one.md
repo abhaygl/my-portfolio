@@ -1,4 +1,4 @@
-| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design) | [final project I](https://abhaygl.github.io/my-portfolio/final-project-part-one) | [final project II](https://abhaygl.github.io/my-portfolio/final-project-part-two) | [final project III](https://abhaygl.github.io/my-portfolio/final-project-part-three) |
 
 # Final Project Outline
 
