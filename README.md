@@ -1,3 +1,5 @@
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design) | [final project I](https://abhaygl.github.io/my-portfolio/final-project-part-one) | [final project II](https://abhaygl.github.io/my-portfolio/final-project-part-two) | [final project III](https://abhaygl.github.io/my-portfolio/final-project-part-three) |
+
 # Welcome to My Portfolio!
 
 This is a portal to the absolute peak of learning and creativity. This quarter A3, I will be using the power of Data in order to Tell Stories. Some may even say I'm Telling Stories with Data.
