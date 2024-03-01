@@ -1,4 +1,4 @@
-| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abhaygl.github.io/my-portfolio/) | [visualizing debt](https://abhaygl.github.io/my-portfolio/visualizing-government-debt) | [critique by design](https://abhaygl.github.io/my-portfolio/critique-by-design) | [final project I](https://abhaygl.github.io/my-portfolio/final-project-part-one) | [final project II](https://abhaygl.github.io/my-portfolio/final-project-part-two) | [final project III](https://abhaygl.github.io/my-portfolio/final-project-part-three) |
 
 # Wireframes / storyboards
 ![Screenshot 2024-02-22 231858](https://github.com/abhaygl/my-portfolio/assets/153397962/608226f3-1f55-43e9-8c74-fda3f854a2e1)
